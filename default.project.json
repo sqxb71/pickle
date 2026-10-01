@@ -1,0 +1,21 @@
+{
+  "name": "CivSim",
+  "tree": {
+    "$className": "DataModel",
+    "ReplicatedStorage": {
+      "$className": "ReplicatedStorage",
+      "Shared": { "$path": "src/shared" },
+      "Remotes": {
+        "$className": "Folder",
+        "RequestTool": { "$className": "RemoteEvent" },
+        "WorldState": { "$className": "RemoteEvent" },
+        "SpeedControl": { "$className": "RemoteEvent" }
+      }
+    },
+    "ServerScriptService": { "$path": "src/server" },
+    "StarterPlayer": {
+      "$className": "StarterPlayer",
+      "StarterPlayerScripts": { "$path": "src/client" }
+    }
+  }
+}
