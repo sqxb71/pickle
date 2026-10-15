@@ -1,0 +1,116 @@
+{
+  "default.project.json": {
+    "mtime": 1792061569.8445837,
+    "seen": 1792061590.7096658,
+    "ast_hash": "8b478137b94dcf4c5b48b5a90b5d9c48",
+    "semantic_hash": ""
+  },
+  "src/client/CameraController.lua": {
+    "mtime": 1792061569.8476584,
+    "seen": 1792061590.7096748,
+    "ast_hash": "6341ebb98706ed759a64e8304831e205",
+    "semantic_hash": ""
+  },
+  "src/client/InputHandler.lua": {
+    "mtime": 1792061569.8477783,
+    "seen": 1792061590.7096784,
+    "ast_hash": "b16046cacbc4f2e3c9ba4ba4ad1980ef",
+    "semantic_hash": ""
+  },
+  "src/client/Main.client.lua": {
+    "mtime": 1792061569.8477783,
+    "seen": 1792061590.7096808,
+    "ast_hash": "f0ccc0addca8a591178eba2df3f77055",
+    "semantic_hash": ""
+  },
+  "src/client/UIBuilder.lua": {
+    "mtime": 1792061569.8477783,
+    "seen": 1792061590.7096834,
+    "ast_hash": "17743a7f45ea1731216a09ea9f48cfb5",
+    "semantic_hash": ""
+  },
+  "src/server/CivManager.lua": {
+    "mtime": 1792061569.8477783,
+    "seen": 1792061590.7096856,
+    "ast_hash": "426df5593aab81f4af93c1d316e49210",
+    "semantic_hash": ""
+  },
+  "src/server/CombatManager.lua": {
+    "mtime": 1792061569.8487284,
+    "seen": 1792061590.7096877,
+    "ast_hash": "e09e8cf16c90cdee4f1e62345d3aa32d",
+    "semantic_hash": ""
+  },
+  "src/server/DisasterManager.lua": {
+    "mtime": 1792061569.8487284,
+    "seen": 1792061590.70969,
+    "ast_hash": "03f9b15f9234a661bb418bab807c0d9b",
+    "semantic_hash": ""
+  },
+  "src/server/Faction.lua": {
+    "mtime": 1792061569.8487284,
+    "seen": 1792061590.7096925,
+    "ast_hash": "b4ffe4292662ef4df512872cb9200c20",
+    "semantic_hash": ""
+  },
+  "src/server/GodTools.lua": {
+    "mtime": 1792061569.8487284,
+    "seen": 1792061590.7096946,
+    "ast_hash": "233cb0197082142fd19542a21fae8bf7",
+    "semantic_hash": ""
+  },
+  "src/server/Main.server.lua": {
+    "mtime": 1792061569.8487284,
+    "seen": 1792061590.7096968,
+    "ast_hash": "928c2c3ff9be7bbd3053bf8df9866890",
+    "semantic_hash": ""
+  },
+  "src/server/SimClock.lua": {
+    "mtime": 1792061569.8487284,
+    "seen": 1792061590.7096996,
+    "ast_hash": "f3238df6432dfb23277ac5ec1f95866e",
+    "semantic_hash": ""
+  },
+  "src/server/TerrainManager.lua": {
+    "mtime": 1792061569.8487284,
+    "seen": 1792061590.7097023,
+    "ast_hash": "11d52f4376f4e889bdcd502300875ea0",
+    "semantic_hash": ""
+  },
+  "src/server/Village.lua": {
+    "mtime": 1792061569.8487284,
+    "seen": 1792061590.7097044,
+    "ast_hash": "037a933dc1146866ac3a1238c42abc3b",
+    "semantic_hash": ""
+  },
+  "src/server/Villager.lua": {
+    "mtime": 1792061569.8487284,
+    "seen": 1792061590.7097068,
+    "ast_hash": "e9b87d213cfee9a1ccd7e7c2b2a41d8c",
+    "semantic_hash": ""
+  },
+  "src/shared/Config.lua": {
+    "mtime": 1792061569.8487284,
+    "seen": 1792061590.7097087,
+    "ast_hash": "b61a23d1e32a829f3c790c83e61bf402",
+    "semantic_hash": ""
+  },
+  "src/shared/TerrainTypes.lua": {
+    "mtime": 1792061569.8498569,
+    "seen": 1792061590.7097108,
+    "ast_hash": "6190f3c5432798e82a40e357f1e95fd2",
+    "semantic_hash": ""
+  },
+  "src/shared/ToolDefs.lua": {
+    "mtime": 1792061569.8498569,
+    "seen": 1792061590.7097137,
+    "ast_hash": "a85680f20d86b6759ae6fc005b867f18",
+    "semantic_hash": ""
+  },
+  "README.md": {
+    "mtime": 1792061569.8445837,
+    "seen": 1792061590.7097156,
+    "ast_hash": "5007df3439882575a7c95bcdf6a492df",
+    "semantic_hash": ""
+  }
+}
